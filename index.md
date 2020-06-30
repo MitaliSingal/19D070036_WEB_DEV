@@ -11,7 +11,7 @@
 <div class="img">
 <section>
     <center>
-    <img src="images/Mitali.jpg">
+    <img src="Mitali.jpg">
     </center>
 </section>
 </div>
